@@ -9,12 +9,19 @@ and I hope to graduate in 1 to 2 years from now, summer 2015.
 *****
 Also, please visit the following websites I've created for coursework:
 
+Tutor-Student Matching, Scheduling, and Records Portal
+http://web.engr.oregonstate.edu/~olsonbe/cs340/final_project/index.php
+(HTML/CSS/JavaScript scheduling interface, user accounts, MySQL database storage, PHP mysqli)
+
+Personal Map - Share Your Location
 http://web.engr.oregonstate.edu/~olsonbe/final_assignment/index.php
-(Map API, user accounts, MySQL database storage)
+(Map API, user accounts, MySQL database storage, JSON, AJAX)
 
+Video Rental Portal
 http://web.engr.oregonstate.edu/~olsonbe/assignment4-part2/interface.php
-(Video Rental Portal with MySQL database storage)
+(MySQL database storage, AJAX, localstorage)
 
+Debugging PHP
 http://web.engr.oregonstate.edu/~olsonbe/how_to_guide/olsonbe_howto_debug_php.html
 *****
 

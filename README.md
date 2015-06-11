@@ -7,6 +7,10 @@ I became a student of Computer Science at Oregon State University in Winter 2013
 and I hope to graduate in 1 to 2 years from now, summer 2015.
 
 *****
+
+Responsive CSS Bio Page Template
+https://www.youtube.com/watch?v=6UCQ5uwSTdg
+
 Also, please visit the following websites I've created for coursework:
 
 Tutor-Student Matching, Scheduling, and Records Portal
